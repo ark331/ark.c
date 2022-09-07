@@ -1,5 +1,6 @@
 #include<stdio-h>
-main()
+
+void main()
 {
 printf("ABDUL REHMAN");
 printf("SHAHID");
